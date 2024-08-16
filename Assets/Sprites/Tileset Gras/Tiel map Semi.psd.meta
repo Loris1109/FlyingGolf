@@ -1,0 +1,3248 @@
+fileFormatVersion: 2
+guid: cf59aac8f30325a4785f1455c114640f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7328877610001866376
+    second: Tiel map Semi_0
+  - first:
+      213: 3573037588099480096
+    second: Tiel map Semi_1
+  - first:
+      213: -3540691630493719147
+    second: Tiel map Semi_2
+  - first:
+      213: 5673157830513612573
+    second: Tiel map Semi_3
+  - first:
+      213: 45603194880746721
+    second: Tiel map Semi_4
+  - first:
+      213: 8645138191905904545
+    second: Tiel map Semi_5
+  - first:
+      213: -5517944372149052178
+    second: Tiel map Semi_6
+  - first:
+      213: 1067513886558417068
+    second: Tiel map Semi_7
+  - first:
+      213: -959848106568008695
+    second: Tiel map Semi_8
+  - first:
+      213: -2445311178714517735
+    second: Tiel map Semi_9
+  - first:
+      213: -1878365842427968666
+    second: Tiel map Semi_10
+  - first:
+      213: -2663807367046410265
+    second: Tiel map Semi_11
+  - first:
+      213: 6113524898975793956
+    second: Tiel map Semi_12
+  - first:
+      213: 8892349631117813290
+    second: Tiel map Semi_13
+  - first:
+      213: -5587834380848938056
+    second: Tiel map Semi_14
+  - first:
+      213: -3533105170915398256
+    second: Tiel map Semi_15
+  - first:
+      213: -2937224389056087570
+    second: Tiel map Semi_16
+  - first:
+      213: 7721462686279888626
+    second: Tiel map Semi_17
+  - first:
+      213: -750053329703154691
+    second: Tiel map Semi_18
+  - first:
+      213: 4676233990722022888
+    second: Tiel map Semi_19
+  - first:
+      213: -365886675690387715
+    second: Tiel map Semi_20
+  - first:
+      213: 8943685570070371322
+    second: Tiel map Semi_21
+  - first:
+      213: 3265381524083149131
+    second: Tiel map Semi_22
+  - first:
+      213: -8902420990667130562
+    second: Tiel map Semi_23
+  - first:
+      213: 5305294055356485669
+    second: Tiel map Semi_24
+  - first:
+      213: -5971993393386981183
+    second: Tiel map Semi_25
+  - first:
+      213: -7033606831224917493
+    second: Tiel map Semi_26
+  - first:
+      213: 763604052936354497
+    second: Tiel map Semi_27
+  - first:
+      213: 2047822470129980064
+    second: Tiel map Semi_28
+  - first:
+      213: -7198448355125515775
+    second: Tiel map Semi_29
+  - first:
+      213: 4212254239720016481
+    second: Tiel map Semi_30
+  - first:
+      213: 3117703906919596255
+    second: Tiel map Semi_31
+  - first:
+      213: -542161015489154664
+    second: Tiel map Semi_32
+  - first:
+      213: -2433553032325996531
+    second: Tiel map Semi_33
+  - first:
+      213: -7158638232662401038
+    second: Tiel map Semi_34
+  - first:
+      213: -8459576940888452637
+    second: Tiel map Semi_35
+  - first:
+      213: -8311019855624076653
+    second: Tiel map Semi_36
+  - first:
+      213: -7746651323409606959
+    second: Tiel map Semi_37
+  - first:
+      213: -5223231677797502539
+    second: Tiel map Semi_38
+  - first:
+      213: -4438926374593750005
+    second: Tiel map Semi_39
+  - first:
+      213: 6097257198888631421
+    second: Tiel map Semi_40
+  - first:
+      213: 17916623208956156
+    second: Tiel map Semi_41
+  - first:
+      213: 4342291599621054363
+    second: Tiel map Semi_42
+  - first:
+      213: 7316896244986936359
+    second: Tiel map Semi_43
+  - first:
+      213: -5084324826473555962
+    second: Tiel map Semi_44
+  - first:
+      213: -5265594890929114455
+    second: Tiel map Semi_45
+  - first:
+      213: 6274006602677477825
+    second: Tiel map Semi_46
+  - first:
+      213: 8272315869314032482
+    second: Tiel map Semi_47
+  - first:
+      213: -1131119696412533109
+    second: Tiel map Semi_48
+  - first:
+      213: -296125210609958884
+    second: Tiel map Semi_49
+  - first:
+      213: 2323126329103055346
+    second: Tiel map Semi_50
+  - first:
+      213: -7243577972359402554
+    second: Tiel map Semi_51
+  - first:
+      213: 297173527146288448
+    second: Tiel map Semi_52
+  - first:
+      213: 6241549665282406492
+    second: Tiel map Semi_53
+  - first:
+      213: 2507272661607272866
+    second: Tiel map Semi_54
+  - first:
+      213: -4917450231553986225
+    second: Tiel map Semi_55
+  - first:
+      213: 2349695895160208297
+    second: Tiel map Semi_56
+  - first:
+      213: -3124482967727859181
+    second: Tiel map Semi_57
+  - first:
+      213: 2709904136798251874
+    second: Tiel map Semi_58
+  - first:
+      213: -8450039493357995425
+    second: Tiel map Semi_59
+  - first:
+      213: 5181631987061543764
+    second: Tiel map Semi_60
+  - first:
+      213: -8603269646509777281
+    second: Tiel map Semi_61
+  - first:
+      213: -32329546313250220
+    second: Tiel map Semi_62
+  - first:
+      213: -6653104637253183328
+    second: Tiel map Semi_63
+  - first:
+      213: -6803183609501188079
+    second: Tiel map Semi_64
+  - first:
+      213: 8413615015530455260
+    second: Tiel map Semi_65
+  - first:
+      213: -2794006603108044138
+    second: Tiel map Semi_66
+  - first:
+      213: -7216387759216158459
+    second: Tiel map Semi_67
+  - first:
+      213: -6156069638565223741
+    second: Tiel map Semi_68
+  - first:
+      213: 3171969540622383007
+    second: Tiel map Semi_69
+  - first:
+      213: -3106077335595031729
+    second: Tiel map Semi_70
+  - first:
+      213: 3673237307667784455
+    second: Tiel map Semi_71
+  - first:
+      213: -2147071653092325157
+    second: Tiel map Semi_72
+  - first:
+      213: -147186168153391117
+    second: Tiel map Semi_73
+  - first:
+      213: 3139708678912736739
+    second: Tiel map Semi_74
+  - first:
+      213: -4849864426920635234
+    second: Tiel map Semi_75
+  - first:
+      213: 4365963489158128929
+    second: Tiel map Semi_76
+  - first:
+      213: 4378048971249380266
+    second: Tiel map Semi_77
+  - first:
+      213: -2274557773194327413
+    second: Tiel map Semi_78
+  - first:
+      213: -5784408511729791132
+    second: Tiel map Semi_79
+  - first:
+      213: 3650030554732038770
+    second: Tiel map Semi_80
+  - first:
+      213: 2823932332210162993
+    second: Tiel map Semi_81
+  - first:
+      213: 1020780686901079912
+    second: Tiel map Semi_82
+  - first:
+      213: 6282089059335917121
+    second: Tiel map Semi_83
+  - first:
+      213: -275950261857097204
+    second: Tiel map Semi_84
+  - first:
+      213: 1542158677555711709
+    second: Tiel map Semi_85
+  - first:
+      213: 114552590227555937
+    second: Tiel map Semi_86
+  - first:
+      213: -2747245400145809020
+    second: Tiel map Semi_87
+  - first:
+      213: 91919435409784923
+    second: Tiel map Semi_88
+  - first:
+      213: -3271945913822238562
+    second: Tiel map Semi_89
+  - first:
+      213: 2935190506159039265
+    second: Tiel map Semi_90
+  - first:
+      213: -5366667690364922126
+    second: Tiel map Semi_91
+  - first:
+      213: 4497376214289862214
+    second: Tiel map Semi_92
+  - first:
+      213: -1656226513543187459
+    second: Tiel map Semi_93
+  - first:
+      213: -391200060171644547
+    second: Tiel map Semi_94
+  - first:
+      213: -4831961490318238411
+    second: Tiel map Semi_95
+  - first:
+      213: -1305564439730542460
+    second: Tiel map Semi_96
+  - first:
+      213: 1799555586182614529
+    second: Tiel map Semi_97
+  - first:
+      213: -9182540427544799671
+    second: Tiel map Semi_98
+  - first:
+      213: -6693303652974643542
+    second: Tiel map Semi_99
+  - first:
+      213: -3923219602449316305
+    second: Tiel map Semi_100
+  - first:
+      213: 5919511500442049833
+    second: Tiel map Semi_101
+  - first:
+      213: 5787665687465565433
+    second: Tiel map Semi_102
+  - first:
+      213: 762213945318540005
+    second: Tiel map Semi_103
+  - first:
+      213: 9190455761928717219
+    second: Tiel map Semi_104
+  - first:
+      213: -6555868898435763239
+    second: Tiel map Semi_105
+  - first:
+      213: 8796377006002743922
+    second: Tiel map Semi_106
+  - first:
+      213: 6810298647175160052
+    second: Tiel map Semi_107
+  - first:
+      213: -827731624531582178
+    second: Tiel map Semi_108
+  - first:
+      213: 1802307209886307976
+    second: Tiel map Semi_109
+  - first:
+      213: 8034075649047811203
+    second: Tiel map Semi_110
+  - first:
+      213: 3581901622880871032
+    second: Tiel map Semi_111
+  - first:
+      213: -3622672372582673886
+    second: Tiel map Semi_112
+  - first:
+      213: 3337737173180587468
+    second: Tiel map Semi_113
+  - first:
+      213: 5918851546009241394
+    second: Tiel map Semi_114
+  - first:
+      213: 4926510592364917521
+    second: Tiel map Semi_115
+  - first:
+      213: -859895538859360132
+    second: Tiel map Semi_116
+  - first:
+      213: -725719426506534378
+    second: Tiel map Semi_117
+  - first:
+      213: 1615833237523506956
+    second: Tiel map Semi_118
+  - first:
+      213: 5527597135326680414
+    second: Tiel map Semi_119
+  - first:
+      213: -7942328692558662792
+    second: Tiel map Semi_120
+  - first:
+      213: -8487016071162633208
+    second: Tiel map Semi_121
+  - first:
+      213: -7142827513897941421
+    second: Tiel map Semi_122
+  - first:
+      213: 6754752697868435265
+    second: Tiel map Semi_123
+  - first:
+      213: 2846095582695127800
+    second: Tiel map Semi_124
+  - first:
+      213: -6147209579838183571
+    second: Tiel map Semi_125
+  - first:
+      213: 1964915650640845587
+    second: Tiel map Semi_126
+  - first:
+      213: -8302162520349939834
+    second: Tiel map Semi_127
+  - first:
+      213: -8603286448683058675
+    second: Tiel map Semi_128
+  - first:
+      213: -2953835266627906411
+    second: Tiel map Semi_129
+  - first:
+      213: -7323709844862249289
+    second: Tiel map Semi_130
+  - first:
+      213: -5226806194924992891
+    second: Tiel map Semi_131
+  - first:
+      213: 3697812179107499682
+    second: Tiel map Semi_132
+  - first:
+      213: 5547817104505964889
+    second: Tiel map Semi_133
+  - first:
+      213: 5205116569336136124
+    second: Tiel map Semi_134
+  - first:
+      213: 2504446746417684870
+    second: Tiel map Semi_135
+  - first:
+      213: 4880373234999118651
+    second: Tiel map Semi_136
+  - first:
+      213: 7908501348126437408
+    second: Tiel map Semi_137
+  - first:
+      213: -2520640631542343075
+    second: Tiel map Semi_138
+  - first:
+      213: -8465009993901479669
+    second: Tiel map Semi_139
+  - first:
+      213: -7524150804376624785
+    second: Tiel map Semi_140
+  - first:
+      213: 4841079462598765548
+    second: Tiel map Semi_141
+  - first:
+      213: 344471419925833288
+    second: Tiel map Semi_142
+  - first:
+      213: 1536926883577651606
+    second: Tiel map Semi_143
+  - first:
+      213: 8347436971963992343
+    second: Tiel map Semi_144
+  - first:
+      213: 1165118165982503861
+    second: Tiel map Semi_145
+  - first:
+      213: -3617033233014428341
+    second: Tiel map Semi_146
+  - first:
+      213: 6841145091424733391
+    second: Tiel map Semi_147
+  - first:
+      213: -8233808366963190756
+    second: Tiel map Semi_148
+  - first:
+      213: -3703606054698808616
+    second: Tiel map Semi_149
+  - first:
+      213: -7095401121914406222
+    second: Tiel map Semi_150
+  - first:
+      213: -2568385313612966129
+    second: Tiel map Semi_151
+  - first:
+      213: 7850083530116577084
+    second: Tiel map Semi_152
+  - first:
+      213: -8409839307487276483
+    second: Tiel map Semi_153
+  - first:
+      213: 5515472742063335722
+    second: Tiel map Semi_154
+  - first:
+      213: -5341212174883127196
+    second: Tiel map Semi_155
+  - first:
+      213: 866290565921595292
+    second: Tiel map Semi_156
+  - first:
+      213: 6416077085712578008
+    second: Tiel map Semi_157
+  - first:
+      213: -723213100748454331
+    second: Tiel map Semi_158
+  - first:
+      213: -959793079402539343
+    second: Tiel map Semi_159
+  - first:
+      213: 6190681123198174554
+    second: Tiel map Semi_160
+  - first:
+      213: 714359135226657082
+    second: Tiel map Semi_161
+  - first:
+      213: 5600475100136966161
+    second: Tiel map Semi_162
+  - first:
+      213: -5010312310515052646
+    second: Tiel map Semi_163
+  - first:
+      213: 1270212508584380553
+    second: Tiel map Semi_164
+  - first:
+      213: 1708191083721231409
+    second: Tiel map Semi_165
+  - first:
+      213: 7990981017904558303
+    second: Tiel map Semi_166
+  - first:
+      213: -8749947803669341456
+    second: Tiel map Semi_167
+  - first:
+      213: 6245903087237951733
+    second: Tiel map Semi_168
+  - first:
+      213: -3343264390729321121
+    second: Tiel map Semi_169
+  - first:
+      213: -7248572207852937595
+    second: Tiel map Semi_170
+  - first:
+      213: -4840841743735247993
+    second: Tiel map Semi_171
+  - first:
+      213: -4529284625265020722
+    second: Tiel map Semi_172
+  - first:
+      213: 6597743548141966205
+    second: Tiel map Semi_173
+  - first:
+      213: -465193501849458307
+    second: Tiel map Semi_174
+  - first:
+      213: 2860196792208593360
+    second: Tiel map Semi_175
+  - first:
+      213: 5886267484488284236
+    second: Tiel map Semi_176
+  - first:
+      213: -8666506893445215734
+    second: Tiel map Semi_177
+  - first:
+      213: -8041663068435598613
+    second: Tiel map Semi_178
+  - first:
+      213: 6639097925104131526
+    second: Tiel map Semi_179
+  - first:
+      213: 5038711943384066193
+    second: Tiel map Semi_180
+  - first:
+      213: -7839657874276575517
+    second: Tiel map Semi_181
+  - first:
+      213: 7912250093482307506
+    second: Tiel map Semi_182
+  - first:
+      213: 9035467365342460798
+    second: Tiel map Semi_183
+  - first:
+      213: -2709284920937032594
+    second: Tiel map Semi_184
+  - first:
+      213: 1454299190377075864
+    second: Tiel map Semi_185
+  - first:
+      213: -7248093152756866270
+    second: Tiel map Semi_186
+  - first:
+      213: -7688256129343225781
+    second: Tiel map Semi_187
+  - first:
+      213: -50849427378935899
+    second: Tiel map Semi_188
+  - first:
+      213: 5211538607927098199
+    second: Tiel map Semi_189
+  - first:
+      213: 5891805291092172066
+    second: Tiel map Semi_190
+  - first:
+      213: 5219033486607123707
+    second: Tiel map Semi_191
+  - first:
+      213: 5933889814459120831
+    second: Tiel map Semi_192
+  - first:
+      213: 3678640582882524099
+    second: Tiel map Semi_193
+  - first:
+      213: 2306095496378551346
+    second: Tiel map Semi_194
+  - first:
+      213: 3782201243806351002
+    second: Tiel map Semi_195
+  - first:
+      213: -8316181948596359269
+    second: Tiel map Semi_196
+  - first:
+      213: 8001788708952483322
+    second: Tiel map Semi_197
+  - first:
+      213: 4138405378407568777
+    second: Tiel map Semi_198
+  - first:
+      213: -5578390429206406824
+    second: Tiel map Semi_199
+  - first:
+      213: -7940142267541208554
+    second: Tiel map Semi_200
+  - first:
+      213: 2257511075153340719
+    second: Tiel map Semi_201
+  - first:
+      213: 3239373574419245258
+    second: Tiel map Semi_202
+  - first:
+      213: 2973593247267805235
+    second: Tiel map Semi_203
+  - first:
+      213: -369851020651648218
+    second: Tiel map Semi_204
+  - first:
+      213: 8775971512140233897
+    second: Tiel map Semi_205
+  - first:
+      213: 3650887030500312868
+    second: Tiel map Semi_206
+  - first:
+      213: 5029137991989838587
+    second: Tiel map Semi_207
+  - first:
+      213: 4605492190243294863
+    second: Tiel map Semi_208
+  - first:
+      213: -7184391020775292038
+    second: Tiel map Semi_209
+  - first:
+      213: 8213504649757043456
+    second: Tiel map Semi_210
+  - first:
+      213: -3578526755118158092
+    second: Tiel map Semi_211
+  - first:
+      213: 2898095104006281579
+    second: Tiel map Semi_212
+  - first:
+      213: 2621744122559039486
+    second: Tiel map Semi_213
+  - first:
+      213: 2997917762012796310
+    second: Tiel map Semi_214
+  - first:
+      213: 4334785375654654855
+    second: Tiel map Semi_215
+  - first:
+      213: 755618797018845855
+    second: Tiel map Semi_216
+  - first:
+      213: -5297738971977888001
+    second: Tiel map Semi_217
+  - first:
+      213: -5811329582278631214
+    second: Tiel map Semi_218
+  - first:
+      213: 3717177265643691226
+    second: Tiel map Semi_219
+  - first:
+      213: -51500207563124896
+    second: Tiel map Semi_220
+  - first:
+      213: -3184191907760713507
+    second: Tiel map Semi_221
+  - first:
+      213: 6310596405116303925
+    second: Tiel map Semi_222
+  - first:
+      213: 7865654352945743892
+    second: Tiel map Semi_223
+  - first:
+      213: 1519597672172835167
+    second: Tiel map Semi_224
+  - first:
+      213: 3683624154202221336
+    second: Tiel map Semi_225
+  - first:
+      213: -5602457934091377364
+    second: Tiel map Semi_226
+  - first:
+      213: -4206496483687858953
+    second: Tiel map Semi_227
+  - first:
+      213: 9184547185290119744
+    second: Tiel map Semi_228
+  - first:
+      213: -4651672813859522471
+    second: Tiel map Semi_229
+  - first:
+      213: -7623983755385213948
+    second: Tiel map Semi_230
+  - first:
+      213: -3504121308444600319
+    second: Tiel map Semi_231
+  - first:
+      213: -3402685942132744306
+    second: Tiel map Semi_232
+  - first:
+      213: -3480685555792028098
+    second: Tiel map Semi_233
+  - first:
+      213: 6635592787179711185
+    second: Tiel map Semi_234
+  - first:
+      213: 7300201499251938125
+    second: Tiel map Semi_235
+  - first:
+      213: 6468595936392210942
+    second: Tiel map Semi_236
+  - first:
+      213: 7611544403614919895
+    second: Tiel map Semi_237
+  - first:
+      213: 966838926580755072
+    second: Tiel map Semi_238
+  - first:
+      213: 6385509371588112069
+    second: Tiel map Semi_239
+  - first:
+      213: 3425500994134267259
+    second: Tiel map Semi_240
+  - first:
+      213: 8936530064607268347
+    second: Tiel map Semi_241
+  - first:
+      213: -8740726377628904893
+    second: Tiel map Semi_242
+  - first:
+      213: 6684559111263679193
+    second: Tiel map Semi_243
+  - first:
+      213: -2630378894700332085
+    second: Tiel map Semi_244
+  - first:
+      213: 7449340662800714264
+    second: Tiel map Semi_245
+  - first:
+      213: -3605027372384245889
+    second: Tiel map Semi_246
+  - first:
+      213: 5732680749769137712
+    second: Tiel map Semi_247
+  - first:
+      213: -5498192799409273262
+    second: Tiel map Semi_248
+  - first:
+      213: 6401126231228890389
+    second: Tiel map Semi_249
+  - first:
+      213: -5381233111898879827
+    second: Tiel map Semi_250
+  - first:
+      213: 1686624586049696893
+    second: Tiel map Semi_251
+  - first:
+      213: -6340964926980637603
+    second: Tiel map Semi_252
+  - first:
+      213: -7214237462317524101
+    second: Tiel map Semi_253
+  - first:
+      213: 8174337050055060674
+    second: Tiel map Semi_254
+  - first:
+      213: -1020861237513395875
+    second: Tiel map Semi_255
+  - first:
+      213: 5344294367879288981
+    second: Tiel map Semi_256
+  - first:
+      213: -8109498722907126254
+    second: Tiel map Semi_257
+  - first:
+      213: 9161299675276907432
+    second: Tiel map Semi_258
+  - first:
+      213: -7624104980769775236
+    second: Tiel map Semi_259
+  - first:
+      213: 2121596604830599875
+    second: Tiel map Semi_260
+  - first:
+      213: 1069342594173963998
+    second: Tiel map Semi_261
+  - first:
+      213: 1943950633387877817
+    second: Tiel map Semi_262
+  - first:
+      213: 7226855025255704562
+    second: Tiel map Semi_263
+  - first:
+      213: -8583245054023154403
+    second: Tiel map Semi_264
+  - first:
+      213: -886366995324588955
+    second: Tiel map Semi_265
+  - first:
+      213: 4973554407615872388
+    second: Tiel map Semi_266
+  - first:
+      213: 1297762278708630230
+    second: Tiel map Semi_267
+  - first:
+      213: 1975332519729678035
+    second: Tiel map Semi_268
+  - first:
+      213: 4930364352702334162
+    second: Tiel map Semi_269
+  - first:
+      213: -5685845953096871057
+    second: Tiel map Semi_270
+  - first:
+      213: 3071450152099427044
+    second: Tiel map Semi_271
+  - first:
+      213: -7925695146969558660
+    second: Tiel map Semi_272
+  - first:
+      213: -4731254307755347817
+    second: Tiel map Semi_273
+  - first:
+      213: -5095206462298431592
+    second: Tiel map Semi_274
+  - first:
+      213: -2461232222988419879
+    second: Tiel map Semi_275
+  - first:
+      213: -5423481094476567333
+    second: Tiel map Semi_276
+  - first:
+      213: -2626187725360682986
+    second: Tiel map Semi_277
+  - first:
+      213: -2870575291007152602
+    second: Tiel map Semi_278
+  - first:
+      213: 8777873470319425488
+    second: Tiel map Semi_279
+  - first:
+      213: -2624903582742170702
+    second: Tiel map Semi_280
+  - first:
+      213: 283137836073198687
+    second: Tiel map Semi_281
+  - first:
+      213: -667359571199359633
+    second: Tiel map Semi_282
+  - first:
+      213: 1775130970965680619
+    second: Tiel map Semi_283
+  - first:
+      213: 4376947839354476847
+    second: Tiel map Semi_284
+  - first:
+      213: -1924215621079259907
+    second: Tiel map Semi_285
+  - first:
+      213: 5298636349823148737
+    second: Tiel map Semi_286
+  - first:
+      213: -3267160519918989156
+    second: Tiel map Semi_287
+  - first:
+      213: 2279628736206292526
+    second: Tiel map Semi_288
+  - first:
+      213: -4648377133312159164
+    second: Tiel map Semi_289
+  - first:
+      213: 7627326843044984353
+    second: Tiel map Semi_290
+  - first:
+      213: -6537312669110688652
+    second: Tiel map Semi_291
+  - first:
+      213: 4498725540372227766
+    second: Tiel map Semi_292
+  - first:
+      213: -8395419998960674513
+    second: Tiel map Semi_293
+  - first:
+      213: -7857301196497543937
+    second: Tiel map Semi_294
+  - first:
+      213: -4817288702004352186
+    second: Tiel map Semi_295
+  - first:
+      213: -1600781913195427647
+    second: Tiel map Semi_296
+  - first:
+      213: -4987433531814872668
+    second: Tiel map Semi_297
+  - first:
+      213: 4556962750090514803
+    second: Tiel map Semi_298
+  - first:
+      213: -2399730851883304589
+    second: Tiel map Semi_299
+  - first:
+      213: -8465468420726987846
+    second: Tiel map Semi_300
+  - first:
+      213: -5144371082688530324
+    second: Tiel map Semi_301
+  - first:
+      213: 1727286082114053908
+    second: Tiel map Semi_302
+  - first:
+      213: 5110735983970259606
+    second: Tiel map Semi_303
+  - first:
+      213: 3521580015142557344
+    second: Tiel map Semi_304
+  - first:
+      213: 7574551212724917412
+    second: Tiel map Semi_305
+  - first:
+      213: 3075281517472554353
+    second: Tiel map Semi_306
+  - first:
+      213: -3333983665347259669
+    second: Tiel map Semi_307
+  - first:
+      213: -8578716254408929621
+    second: Tiel map Semi_308
+  - first:
+      213: 332768632802470528
+    second: Tiel map Semi_309
+  - first:
+      213: -239701159529201143
+    second: Tiel map Semi_310
+  - first:
+      213: 1914146953187901149
+    second: Tiel map Semi_311
+  - first:
+      213: -886808327452493333
+    second: Tiel map Semi_312
+  - first:
+      213: -2362851467827508054
+    second: Tiel map Semi_313
+  - first:
+      213: -454906276535616070
+    second: Tiel map Semi_314
+  - first:
+      213: 2968205465309855274
+    second: Tiel map Semi_315
+  - first:
+      213: -3674048364831986572
+    second: Tiel map Semi_316
+  - first:
+      213: 727413243224047126
+    second: Tiel map Semi_317
+  - first:
+      213: 6809154970288259775
+    second: Tiel map Semi_318
+  - first:
+      213: -1512268583803216808
+    second: Tiel map Semi_319
+  - first:
+      213: -3471461833137816046
+    second: Tiel map Semi_320
+  - first:
+      213: 510109405053974206
+    second: Tiel map Semi_321
+  - first:
+      213: -6961134944915479003
+    second: Tiel map Semi_322
+  - first:
+      213: 1246833474949498732
+    second: Tiel map Semi_323
+  - first:
+      213: -1411015344973841353
+    second: Tiel map Semi_324
+  - first:
+      213: 9078768297101080982
+    second: Tiel map Semi_325
+  - first:
+      213: 1032017355540089323
+    second: Tiel map Semi_326
+  - first:
+      213: -2758695909755165437
+    second: Tiel map Semi_327
+  - first:
+      213: 4880828724955592747
+    second: Tiel map Semi_328
+  - first:
+      213: -2557396204255313442
+    second: Tiel map Semi_329
+  - first:
+      213: -8637503296356322660
+    second: Tiel map Semi_330
+  - first:
+      213: 5950974849280859954
+    second: Tiel map Semi_331
+  - first:
+      213: 4214649164413214473
+    second: Tiel map Semi_332
+  - first:
+      213: -2094319474338395323
+    second: Tiel map Semi_333
+  - first:
+      213: 5279554397443766989
+    second: Tiel map Semi_334
+  - first:
+      213: 6399072494045858152
+    second: Tiel map Semi_335
+  - first:
+      213: 6170753570569798233
+    second: Tiel map Semi_336
+  - first:
+      213: -990419190527800185
+    second: Tiel map Semi_337
+  - first:
+      213: -7887161185517345785
+    second: Tiel map Semi_338
+  - first:
+      213: 7188093778390994657
+    second: Tiel map Semi_339
+  - first:
+      213: 4404738428936457741
+    second: Tiel map Semi_340
+  - first:
+      213: 267041345581003486
+    second: Tiel map Semi_341
+  - first:
+      213: -5253240636413174542
+    second: Tiel map Semi_342
+  - first:
+      213: 2059461384815829238
+    second: Tiel map Semi_343
+  - first:
+      213: 4686022128298271468
+    second: Tiel map Semi_344
+  - first:
+      213: 5752348721741806938
+    second: Tiel map Semi_345
+  - first:
+      213: -7015687249447367294
+    second: Tiel map Semi_346
+  - first:
+      213: 20582623448500211
+    second: Tiel map Semi_347
+  - first:
+      213: -8520616746968138863
+    second: Tiel map Semi_348
+  - first:
+      213: 4358251895235936758
+    second: Tiel map Semi_349
+  - first:
+      213: -786782406661623509
+    second: Tiel map Semi_350
+  - first:
+      213: -5868637922743898347
+    second: Tiel map Semi_351
+  - first:
+      213: 7400828972235757834
+    second: Tiel map Semi_352
+  - first:
+      213: -7055357109192411575
+    second: Tiel map Semi_353
+  - first:
+      213: 724927160579385934
+    second: Tiel map Semi_354
+  - first:
+      213: -4177163866813232662
+    second: Tiel map Semi_355
+  - first:
+      213: -4776619660032666375
+    second: Tiel map Semi_356
+  - first:
+      213: 2706184647470364930
+    second: Tiel map Semi_357
+  - first:
+      213: -6345307562761975690
+    second: Tiel map Semi_358
+  - first:
+      213: -5394931925700896571
+    second: Tiel map Semi_359
+  - first:
+      213: -9102942730215522001
+    second: Tiel map Semi_360
+  - first:
+      213: 8068300973100800227
+    second: Tiel map Semi_361
+  - first:
+      213: -4261183973219922958
+    second: Tiel map Semi_362
+  - first:
+      213: 8685143713439912713
+    second: Tiel map Semi_363
+  - first:
+      213: 7929570917857884821
+    second: Tiel map Semi_364
+  - first:
+      213: 9101242515043272813
+    second: Tiel map Semi_365
+  - first:
+      213: 7259028861897796093
+    second: Tiel map Semi_366
+  - first:
+      213: -4743827211806716745
+    second: Tiel map Semi_367
+  - first:
+      213: -8739316323136776658
+    second: Tiel map Semi_368
+  - first:
+      213: -5410573550723863574
+    second: Tiel map Semi_369
+  - first:
+      213: 506770818900663573
+    second: Tiel map Semi_370
+  - first:
+      213: 6685724159132930940
+    second: Tiel map Semi_371
+  - first:
+      213: 7895316131516110294
+    second: Tiel map Semi_372
+  - first:
+      213: -8773032118176646297
+    second: Tiel map Semi_373
+  - first:
+      213: -1917238999579889781
+    second: Tiel map Semi_374
+  - first:
+      213: 1062791750415660971
+    second: Tiel map Semi_375
+  - first:
+      213: 4736042561553237053
+    second: Tiel map Semi_376
+  - first:
+      213: -3826800282514572919
+    second: Tiel map Semi_377
+  - first:
+      213: -4257860148502437232
+    second: Tiel map Semi_378
+  - first:
+      213: -6391074447119538394
+    second: Tiel map Semi_379
+  - first:
+      213: -5108385850526379884
+    second: Tiel map Semi_380
+  - first:
+      213: -7873091127293903547
+    second: Tiel map Semi_381
+  - first:
+      213: -3364964779095325804
+    second: Tiel map Semi_382
+  - first:
+      213: -2638469376191126689
+    second: Tiel map Semi_383
+  - first:
+      213: 1784291718339040652
+    second: Tiel map Semi_384
+  - first:
+      213: -4368988205969702252
+    second: Tiel map Semi_385
+  - first:
+      213: -4181184619781224572
+    second: Tiel map Semi_386
+  - first:
+      213: 1265313738734713755
+    second: Tiel map Semi_387
+  - first:
+      213: -4083276606519028514
+    second: Tiel map Semi_388
+  - first:
+      213: -2461527262699539500
+    second: Tiel map Semi_389
+  - first:
+      213: -1192960190872426481
+    second: Tiel map Semi_390
+  - first:
+      213: -8552450131460134679
+    second: Tiel map Semi_391
+  - first:
+      213: -2978704951992028599
+    second: Tiel map Semi_392
+  - first:
+      213: 2588759463953761094
+    second: Tiel map Semi_393
+  - first:
+      213: 4835643164646245143
+    second: Tiel map Semi_394
+  - first:
+      213: 3445199826861368982
+    second: Tiel map Semi_395
+  - first:
+      213: 6037490082217987020
+    second: Tiel map Semi_396
+  - first:
+      213: 4754736813477234787
+    second: Tiel map Semi_397
+  - first:
+      213: -1808711850593175759
+    second: Tiel map Semi_398
+  - first:
+      213: -6650022236482130967
+    second: Tiel map Semi_399
+  - first:
+      213: 4202745954784442529
+    second: Tiel map Semi_400
+  - first:
+      213: -4853601721109356932
+    second: Tiel map Semi_401
+  - first:
+      213: -2039249084176538204
+    second: Tiel map Semi_402
+  - first:
+      213: 2732777179927793652
+    second: Tiel map Semi_403
+  - first:
+      213: -7228746051134800523
+    second: Tiel map Semi_404
+  - first:
+      213: -4921687645279403517
+    second: Tiel map Semi_405
+  - first:
+      213: -1978582164053717840
+    second: Tiel map Semi_406
+  - first:
+      213: 5994824094941944403
+    second: Tiel map Semi_407
+  - first:
+      213: 4776819880288981789
+    second: Tiel map Semi_408
+  - first:
+      213: -7028295506068920249
+    second: Tiel map Semi_409
+  - first:
+      213: -1077161261367094741
+    second: Tiel map Semi_410
+  - first:
+      213: 7494331244938191577
+    second: Tiel map Semi_411
+  - first:
+      213: -8796639159806914263
+    second: Tiel map Semi_412
+  - first:
+      213: 6974518435566735782
+    second: Tiel map Semi_413
+  - first:
+      213: -253534526781073173
+    second: Tiel map Semi_414
+  - first:
+      213: -4987649916172678189
+    second: Tiel map Semi_415
+  - first:
+      213: 5757491749795627231
+    second: Tiel map Semi_416
+  - first:
+      213: 6345087310879159717
+    second: Tiel map Semi_417
+  - first:
+      213: 5771022645971868461
+    second: Tiel map Semi_418
+  - first:
+      213: 7789882293087378626
+    second: Tiel map Semi_419
+  - first:
+      213: 3176467155884140158
+    second: Tiel map Semi_420
+  - first:
+      213: 8869698121012318332
+    second: Tiel map Semi_421
+  - first:
+      213: 4802293533720752676
+    second: Tiel map Semi_422
+  - first:
+      213: 6773902495654848212
+    second: Tiel map Semi_423
+  - first:
+      213: 5485628249306980154
+    second: Tiel map Semi_424
+  - first:
+      213: -8943608013158436112
+    second: Tiel map Semi_425
+  - first:
+      213: -2726854285014301249
+    second: Tiel map Semi_426
+  - first:
+      213: -1472528421263495698
+    second: Tiel map Semi_427
+  - first:
+      213: 575360329448673573
+    second: Tiel map Semi_428
+  - first:
+      213: 6758181599021592378
+    second: Tiel map Semi_429
+  - first:
+      213: 8322023228491223589
+    second: Tiel map Semi_430
+  - first:
+      213: -8975631607913978403
+    second: Tiel map Semi_431
+  - first:
+      213: 8737965146275019946
+    second: Tiel map Semi_432
+  - first:
+      213: 3879267419534659542
+    second: Tiel map Semi_433
+  - first:
+      213: -6290454602309780318
+    second: Tiel map Semi_434
+  - first:
+      213: -1612212764408250672
+    second: Tiel map Semi_435
+  - first:
+      213: 9162044519077739383
+    second: Tiel map Semi_436
+  - first:
+      213: 8042841752092522320
+    second: Tiel map Semi_437
+  - first:
+      213: -7086585373212916020
+    second: Tiel map Semi_438
+  - first:
+      213: 2241064843391319649
+    second: Tiel map Semi_439
+  - first:
+      213: -5066167711757886924
+    second: Tiel map Semi_440
+  - first:
+      213: 8597653327268064267
+    second: Tiel map Semi_441
+  - first:
+      213: 8479064267865321620
+    second: Tiel map Semi_442
+  - first:
+      213: -5998566874146582840
+    second: Tiel map Semi_443
+  - first:
+      213: -1796522017046075140
+    second: Tiel map Semi_444
+  - first:
+      213: 8060331202250023050
+    second: Tiel map Semi_445
+  - first:
+      213: 4765547516601613618
+    second: Tiel map Semi_446
+  - first:
+      213: -6017832615014362609
+    second: Tiel map Semi_447
+  - first:
+      213: -98182885215734276
+    second: Tiel map Semi_448
+  - first:
+      213: 8763009801529394357
+    second: Tiel map Semi_449
+  - first:
+      213: 3100453754416230989
+    second: Tiel map Semi_450
+  - first:
+      213: 4728696949384360232
+    second: Tiel map Semi_451
+  - first:
+      213: 2616717415335069247
+    second: Tiel map Semi_452
+  - first:
+      213: -8925428868897835817
+    second: Tiel map Semi_453
+  - first:
+      213: 3498997257676139543
+    second: Tiel map Semi_454
+  - first:
+      213: -4603362260401379691
+    second: Tiel map Semi_455
+  - first:
+      213: 8969500434082818409
+    second: Tiel map Semi_456
+  - first:
+      213: -4570354847548988287
+    second: Tiel map Semi_457
+  - first:
+      213: -327616208587135054
+    second: Tiel map Semi_458
+  - first:
+      213: -6040575051713038049
+    second: Tiel map Semi_459
+  - first:
+      213: 6453710397320036793
+    second: Tiel map Semi_460
+  - first:
+      213: -2648496819474801329
+    second: Tiel map Semi_461
+  - first:
+      213: 3161480200380688447
+    second: Tiel map Semi_462
+  - first:
+      213: -998082857069149312
+    second: Tiel map Semi_463
+  - first:
+      213: 4527822994161290708
+    second: Tiel map Semi_464
+  - first:
+      213: -5363079145297893630
+    second: Tiel map Semi_465
+  - first:
+      213: -8622833334216411067
+    second: Tiel map Semi_466
+  - first:
+      213: -9042530183207530528
+    second: Tiel map Semi_467
+  - first:
+      213: 1440408640247549520
+    second: Tiel map Semi_468
+  - first:
+      213: -5711508349923435823
+    second: Tiel map Semi_469
+  - first:
+      213: 2726597030066569012
+    second: Tiel map Semi_470
+  - first:
+      213: 8483848087065459600
+    second: Tiel map Semi_471
+  - first:
+      213: 2434932793853842179
+    second: Tiel map Semi_472
+  - first:
+      213: 6120500231904640278
+    second: Tiel map Semi_473
+  - first:
+      213: -8315828042749110076
+    second: Tiel map Semi_474
+  - first:
+      213: -6543643322812296544
+    second: Tiel map Semi_475
+  - first:
+      213: 6295891959595985753
+    second: Tiel map Semi_476
+  - first:
+      213: -3489154232913537647
+    second: Tiel map Semi_477
+  - first:
+      213: -1933118542981019265
+    second: Tiel map Semi_478
+  - first:
+      213: -1748234352847285954
+    second: Tiel map Semi_479
+  - first:
+      213: -6182319317236726735
+    second: Tiel map Semi_480
+  - first:
+      213: -8845857975273202444
+    second: Tiel map Semi_481
+  - first:
+      213: 2908735673548199569
+    second: Tiel map Semi_482
+  - first:
+      213: -2076857447075293962
+    second: Tiel map Semi_483
+  - first:
+      213: 6046660904868821364
+    second: Tiel map Semi_484
+  - first:
+      213: -6629628469535734174
+    second: Tiel map Semi_485
+  - first:
+      213: 3085490956560640669
+    second: Tiel map Semi_486
+  - first:
+      213: 643222523324048473
+    second: Tiel map Semi_487
+  - first:
+      213: 6251219377909978279
+    second: Tiel map Semi_488
+  - first:
+      213: -4031290055881648205
+    second: Tiel map Semi_489
+  - first:
+      213: 9137176628568679647
+    second: Tiel map Semi_490
+  - first:
+      213: -7582327498477790769
+    second: Tiel map Semi_491
+  - first:
+      213: -7972974695213047649
+    second: Tiel map Semi_492
+  - first:
+      213: -5695352154085407823
+    second: Tiel map Semi_493
+  - first:
+      213: -2949776817973614090
+    second: Tiel map Semi_494
+  - first:
+      213: 6830673710860456358
+    second: Tiel map Semi_495
+  - first:
+      213: -2968865248451136839
+    second: Tiel map Semi_496
+  - first:
+      213: 8524261043546805237
+    second: Tiel map Semi_497
+  - first:
+      213: 5528493886519066813
+    second: Tiel map Semi_498
+  - first:
+      213: -2686237263860219826
+    second: Tiel map Semi_499
+  - first:
+      213: -5375855492638267651
+    second: Tiel map Semi_500
+  - first:
+      213: 4590907524054635998
+    second: Tiel map Semi_501
+  - first:
+      213: 6277194654560879768
+    second: Tiel map Semi_502
+  - first:
+      213: -8458624923798670448
+    second: Tiel map Semi_503
+  - first:
+      213: 2655900377716013407
+    second: Tiel map Semi_504
+  - first:
+      213: -1062056971279752433
+    second: Tiel map Semi_505
+  - first:
+      213: 1588845873733643925
+    second: Tiel map Semi_506
+  - first:
+      213: 9141898093229827526
+    second: Tiel map Semi_507
+  - first:
+      213: 2725077249332232154
+    second: Tiel map Semi_508
+  - first:
+      213: -5498101724622065425
+    second: Tiel map Semi_509
+  - first:
+      213: -7335611432513930949
+    second: Tiel map Semi_510
+  - first:
+      213: 4759591765767426961
+    second: Tiel map Semi_511
+  - first:
+      213: 7637444250529666529
+    second: Tiel map Semi_512
+  - first:
+      213: 3924247552081905642
+    second: Tiel map Semi_513
+  - first:
+      213: 8766035764837282208
+    second: Tiel map Semi_514
+  - first:
+      213: 2879298371863093753
+    second: Tiel map Semi_515
+  - first:
+      213: 5382247078212742721
+    second: Tiel map Semi_516
+  - first:
+      213: 8069603258211124015
+    second: Tiel map Semi_517
+  - first:
+      213: -9025167069824355202
+    second: Tiel map Semi_518
+  - first:
+      213: -758998921678821228
+    second: Tiel map Semi_519
+  - first:
+      213: 8967124867286164404
+    second: Tiel map Semi_520
+  - first:
+      213: 302142622715866249
+    second: Tiel map Semi_521
+  - first:
+      213: -1970838677320598542
+    second: Tiel map Semi_522
+  - first:
+      213: 8864795103981292192
+    second: Tiel map Semi_523
+  - first:
+      213: 7435730728205513291
+    second: Tiel map Semi_524
+  - first:
+      213: 3943006777854339460
+    second: Tiel map Semi_525
+  - first:
+      213: 1816768491704000076
+    second: Tiel map Semi_526
+  - first:
+      213: 2055151833208247778
+    second: Tiel map Semi_527
+  - first:
+      213: 4836496976220296909
+    second: Tiel map Semi_528
+  - first:
+      213: 7896981860607088981
+    second: Tiel map Semi_529
+  - first:
+      213: 332892334697953659
+    second: Tiel map Semi_530
+  - first:
+      213: -2172586956813865898
+    second: Tiel map Semi_531
+  - first:
+      213: -6759808217894669864
+    second: Tiel map Semi_532
+  - first:
+      213: 1301737728016182488
+    second: Tiel map Semi_533
+  - first:
+      213: 781742124430011413
+    second: Tiel map Semi_534
+  - first:
+      213: 7414948149426057914
+    second: Tiel map Semi_535
+  - first:
+      213: -4467051221174421672
+    second: Tiel map Semi_536
+  - first:
+      213: -3087424185074127871
+    second: Tiel map Semi_537
+  - first:
+      213: -8413675113467129505
+    second: Tiel map Semi_538
+  - first:
+      213: -7836847456362985167
+    second: Tiel map Semi_539
+  - first:
+      213: 1451771259370779475
+    second: Tiel map Semi_540
+  - first:
+      213: -535867882806005702
+    second: Tiel map Semi_541
+  - first:
+      213: -6865422980759380557
+    second: Tiel map Semi_542
+  - first:
+      213: 7135996172556378402
+    second: Tiel map Semi_543
+  - first:
+      213: -5676896384337029688
+    second: Tiel map Semi_544
+  - first:
+      213: -4706532078417306522
+    second: Tiel map Semi_545
+  - first:
+      213: -7108580006107871933
+    second: Tiel map Semi_546
+  - first:
+      213: -8242740568600911553
+    second: Tiel map Semi_547
+  - first:
+      213: -3909079269713030876
+    second: Tiel map Semi_548
+  - first:
+      213: -4974861157794574870
+    second: Tiel map Semi_549
+  - first:
+      213: -3604565864034534866
+    second: Tiel map Semi_550
+  - first:
+      213: 5475453414099255261
+    second: Tiel map Semi_551
+  - first:
+      213: -6903233367072952905
+    second: Tiel map Semi_552
+  - first:
+      213: -9070676490280831887
+    second: Tiel map Semi_553
+  - first:
+      213: 7414796944226679503
+    second: Tiel map Semi_554
+  - first:
+      213: -2030119442674159545
+    second: Tiel map Semi_555
+  - first:
+      213: -8195495566179984602
+    second: Tiel map Semi_556
+  - first:
+      213: 1952379318494429697
+    second: Tiel map Semi_557
+  - first:
+      213: 3446717640399980686
+    second: Tiel map Semi_558
+  - first:
+      213: -8988475600075070362
+    second: Tiel map Semi_559
+  - first:
+      213: -3144131467047518382
+    second: Tiel map Semi_560
+  - first:
+      213: 1153828218153112604
+    second: Tiel map Semi_561
+  - first:
+      213: -7308181469276606216
+    second: Tiel map Semi_562
+  - first:
+      213: -5608243626768003186
+    second: Tiel map Semi_563
+  - first:
+      213: -5439931627785837411
+    second: Tiel map Semi_564
+  - first:
+      213: -1724078178156467126
+    second: Tiel map Semi_565
+  - first:
+      213: 2955248492117183471
+    second: Tiel map Semi_566
+  - first:
+      213: -7764228941881812707
+    second: Tiel map Semi_567
+  - first:
+      213: -7764010351794727034
+    second: Tiel map Semi_568
+  - first:
+      213: 699429421416699178
+    second: Tiel map Semi_569
+  - first:
+      213: -7396667243430610011
+    second: Tiel map Semi_570
+  - first:
+      213: 1173011409754271327
+    second: Tiel map Semi_571
+  - first:
+      213: -8877166121831311463
+    second: Tiel map Semi_572
+  - first:
+      213: -8334802946247468632
+    second: Tiel map Semi_573
+  - first:
+      213: -7145825735960354454
+    second: Tiel map Semi_574
+  - first:
+      213: 327042723212405146
+    second: Tiel map Semi_575
+  - first:
+      213: 7207525355980487419
+    second: Tiel map Semi_576
+  - first:
+      213: -3369699396056530925
+    second: Tiel map Semi_577
+  - first:
+      213: -7654827520304746710
+    second: Tiel map Semi_578
+  - first:
+      213: 7174736128790782220
+    second: Tiel map Semi_579
+  - first:
+      213: 2916367602478358037
+    second: Tiel map Semi_580
+  - first:
+      213: 1803282597098602700
+    second: Tiel map Semi_581
+  - first:
+      213: 6464485734855637459
+    second: Tiel map Semi_582
+  - first:
+      213: -5774935698753645450
+    second: Tiel map Semi_583
+  - first:
+      213: -5312510162796349695
+    second: Tiel map Semi_584
+  - first:
+      213: 4683306234785509283
+    second: Tiel map Semi_585
+  - first:
+      213: -4026715366492215967
+    second: Tiel map Semi_586
+  - first:
+      213: 5129202851142757846
+    second: Tiel map Semi_587
+  - first:
+      213: -7115773422359046582
+    second: Tiel map Semi_588
+  - first:
+      213: -1935533144327167357
+    second: Tiel map Semi_589
+  - first:
+      213: 6585141768551252875
+    second: Tiel map Semi_590
+  - first:
+      213: 692205454621844820
+    second: Tiel map Semi_591
+  - first:
+      213: 5216481507350914166
+    second: Tiel map Semi_592
+  - first:
+      213: -8105080579465302494
+    second: Tiel map Semi_593
+  - first:
+      213: -2115891586351599796
+    second: Tiel map Semi_594
+  - first:
+      213: -3059788862654306320
+    second: Tiel map Semi_595
+  - first:
+      213: 6582955227551512921
+    second: Tiel map Semi_596
+  - first:
+      213: -3932249473975871943
+    second: Tiel map Semi_597
+  - first:
+      213: -8894325826257181265
+    second: Tiel map Semi_598
+  - first:
+      213: 3421643119909092983
+    second: Tiel map Semi_599
+  - first:
+      213: -4370640729135528369
+    second: Tiel map Semi_600
+  - first:
+      213: 4411096994270776617
+    second: Tiel map Semi_601
+  - first:
+      213: -3590770708245962304
+    second: Tiel map Semi_602
+  - first:
+      213: 2250682677620550667
+    second: Tiel map Semi_603
+  - first:
+      213: 6055784575293346583
+    second: Tiel map Semi_604
+  - first:
+      213: -2056418021091992709
+    second: Tiel map Semi_605
+  - first:
+      213: 349173369653252186
+    second: Tiel map Semi_606
+  - first:
+      213: 5608919906658189494
+    second: Tiel map Semi_607
+  - first:
+      213: 5245140030042330424
+    second: Tiel map Semi_608
+  - first:
+      213: 4194942865207077537
+    second: Tiel map Semi_609
+  - first:
+      213: 7474665535225936008
+    second: Tiel map Semi_610
+  - first:
+      213: 6646967997424651867
+    second: Tiel map Semi_611
+  - first:
+      213: 6667161946792769274
+    second: Tiel map Semi_612
+  - first:
+      213: -609226277150135350
+    second: Tiel map Semi_613
+  - first:
+      213: -5219657146784893418
+    second: Tiel map Semi_614
+  - first:
+      213: 8961300404135640240
+    second: Tiel map Semi_615
+  - first:
+      213: -4343215038119012538
+    second: Tiel map Semi_616
+  - first:
+      213: -8910777733417611255
+    second: Tiel map Semi_617
+  - first:
+      213: 2692171033030332290
+    second: Tiel map Semi_618
+  - first:
+      213: 3854844815240180970
+    second: Tiel map Semi_619
+  - first:
+      213: -4161595436406546321
+    second: Tiel map Semi_620
+  - first:
+      213: -268175875472313867
+    second: Tiel map Semi_621
+  - first:
+      213: 8820005660500226107
+    second: Tiel map Semi_622
+  - first:
+      213: 3748230479017348549
+    second: Tiel map Semi_623
+  - first:
+      213: 1784858084788981267
+    second: Tiel map Semi_624
+  - first:
+      213: -8870508815184821052
+    second: Tiel map Semi_625
+  - first:
+      213: 3785076309138822781
+    second: Tiel map Semi_626
+  - first:
+      213: -6907625312454099179
+    second: Tiel map Semi_627
+  - first:
+      213: 2339591903682684243
+    second: Tiel map Semi_628
+  - first:
+      213: 6024207177515176980
+    second: Tiel map Semi_629
+  - first:
+      213: -3597133641584405641
+    second: Tiel map Semi_630
+  - first:
+      213: 3025899269911514855
+    second: Tiel map Semi_631
+  - first:
+      213: 6324181994449127006
+    second: Tiel map Semi_632
+  - first:
+      213: 1013288008747218481
+    second: Tiel map Semi_633
+  - first:
+      213: 1891154925837855103
+    second: Tiel map Semi_634
+  - first:
+      213: -5938424325214181251
+    second: Tiel map Semi_635
+  - first:
+      213: -1237983321279411792
+    second: Tiel map Semi_636
+  - first:
+      213: -2635445533184958413
+    second: Tiel map Semi_637
+  - first:
+      213: 6397718359823972064
+    second: Tiel map Semi_638
+  - first:
+      213: -6337892333190556192
+    second: Tiel map Semi_639
+  - first:
+      213: -5887771931061666086
+    second: Tiel map Semi_640
+  - first:
+      213: 6522653068559353967
+    second: Tiel map Semi_641
+  - first:
+      213: 1128425570434138886
+    second: Tiel map Semi_642
+  - first:
+      213: -4774118056592345429
+    second: Tiel map Semi_643
+  - first:
+      213: -6776555333042681606
+    second: Tiel map Semi_644
+  - first:
+      213: -6291867283967647102
+    second: Tiel map Semi_645
+  - first:
+      213: -3132797614181129709
+    second: Tiel map Semi_646
+  - first:
+      213: 6437083504490116858
+    second: Tiel map Semi_647
+  - first:
+      213: 2235330180809109913
+    second: Tiel map Semi_648
+  - first:
+      213: -7418655316167980186
+    second: Tiel map Semi_649
+  - first:
+      213: -5727733342859394447
+    second: Tiel map Semi_650
+  - first:
+      213: -1676072560811284865
+    second: Tiel map Semi_651
+  - first:
+      213: 4764332826483050395
+    second: Tiel map Semi_652
+  - first:
+      213: -4283651020309901067
+    second: Tiel map Semi_653
+  - first:
+      213: 204177987106598988
+    second: Tiel map Semi_654
+  - first:
+      213: -5688084708919174567
+    second: Tiel map Semi_655
+  - first:
+      213: -4693337512102344506
+    second: Tiel map Semi_656
+  - first:
+      213: -7792996442438664661
+    second: Tiel map Semi_657
+  - first:
+      213: 8856591227680746232
+    second: Tiel map Semi_658
+  - first:
+      213: 6494657068049219383
+    second: Tiel map Semi_659
+  - first:
+      213: 2220482923748145148
+    second: Tiel map Semi_660
+  - first:
+      213: 8423181110210164678
+    second: Tiel map Semi_661
+  - first:
+      213: 290213725704491076
+    second: Tiel map Semi_662
+  - first:
+      213: -211355007579911267
+    second: Tiel map Semi_663
+  - first:
+      213: -797924684867513980
+    second: Tiel map Semi_664
+  - first:
+      213: 108526206107921612
+    second: Tiel map Semi_665
+  - first:
+      213: 4022321950052651696
+    second: Tiel map Semi_666
+  - first:
+      213: -2250548130059834603
+    second: Tiel map Semi_667
+  - first:
+      213: -8483256480206962611
+    second: Tiel map Semi_668
+  - first:
+      213: 1111231063494771541
+    second: Tiel map Semi_669
+  - first:
+      213: 4580681797365354069
+    second: Tiel map Semi_670
+  - first:
+      213: 2147174562866004458
+    second: Tiel map Semi_671
+  - first:
+      213: 5039930882557973857
+    second: Tiel map Semi_672
+  - first:
+      213: -2048930803731812637
+    second: Tiel map Semi_673
+  - first:
+      213: 4364288679606447683
+    second: Tiel map Semi_674
+  - first:
+      213: -4070736677833830372
+    second: Tiel map Semi_675
+  - first:
+      213: 1975487236070492400
+    second: Tiel map Semi_676
+  - first:
+      213: -2100767717971446188
+    second: Tiel map Semi_677
+  - first:
+      213: 4562076573522231363
+    second: Tiel map Semi_678
+  - first:
+      213: 2020066776641644806
+    second: Tiel map Semi_679
+  - first:
+      213: 1132717227332306543
+    second: Tiel map Semi_680
+  - first:
+      213: 906511081034578471
+    second: Tiel map Semi_681
+  - first:
+      213: 4614503453164638522
+    second: Tiel map Semi_682
+  - first:
+      213: -3057644882669753132
+    second: Tiel map Semi_683
+  - first:
+      213: 7511521678193873673
+    second: Tiel map Semi_684
+  - first:
+      213: 6257202412248795944
+    second: Tiel map Semi_685
+  - first:
+      213: 2703079934834785025
+    second: Tiel map Semi_686
+  - first:
+      213: -2637730924741987887
+    second: Tiel map Semi_687
+  - first:
+      213: -3405378414143772754
+    second: Tiel map Semi_688
+  - first:
+      213: 7150791483785093312
+    second: Tiel map Semi_689
+  - first:
+      213: 2457843871671284629
+    second: Tiel map Semi_690
+  - first:
+      213: -3276287378258290278
+    second: Tiel map Semi_691
+  - first:
+      213: 9118613063170394337
+    second: Tiel map Semi_692
+  - first:
+      213: 6865591786000725999
+    second: Tiel map Semi_693
+  - first:
+      213: -8504928394525968297
+    second: Tiel map Semi_694
+  - first:
+      213: 3600950913654452889
+    second: Tiel map Semi_695
+  - first:
+      213: 3824663361456995194
+    second: Tiel map Semi_696
+  - first:
+      213: 8969897938627155930
+    second: Tiel map Semi_697
+  - first:
+      213: 8367812863525012054
+    second: Tiel map Semi_698
+  - first:
+      213: 3128896471961708187
+    second: Tiel map Semi_699
+  - first:
+      213: 1122889791947598220
+    second: Tiel map Semi_700
+  - first:
+      213: -5926261315907253282
+    second: Tiel map Semi_701
+  - first:
+      213: -4440387830385771674
+    second: Tiel map Semi_702
+  - first:
+      213: -1037784759690684496
+    second: Tiel map Semi_703
+  - first:
+      213: -7559639620170977000
+    second: Tiel map Semi_704
+  - first:
+      213: -8358250760717654237
+    second: Tiel map Semi_705
+  - first:
+      213: -6465459582626580875
+    second: Tiel map Semi_706
+  - first:
+      213: -5449445224290013347
+    second: Tiel map Semi_707
+  - first:
+      213: -8104523255450004828
+    second: Tiel map Semi_708
+  - first:
+      213: 5353519942939284669
+    second: Tiel map Semi_709
+  - first:
+      213: 3022430624374087738
+    second: Tiel map Semi_710
+  - first:
+      213: -5363443715447159892
+    second: Tiel map Semi_711
+  - first:
+      213: 5851420120708895537
+    second: Tiel map Semi_712
+  - first:
+      213: 728812084852727026
+    second: Tiel map Semi_713
+  - first:
+      213: 8323177776198516311
+    second: Tiel map Semi_714
+  - first:
+      213: 8829558593330508380
+    second: Tiel map Semi_715
+  - first:
+      213: 4075120255919051109
+    second: Tiel map Semi_716
+  - first:
+      213: -6630039099170206434
+    second: Tiel map Semi_717
+  - first:
+      213: -1997401362094765505
+    second: Tiel map Semi_718
+  - first:
+      213: 344643360997657058
+    second: Tiel map Semi_719
+  - first:
+      213: -6104233498927010637
+    second: Tiel map Semi_720
+  - first:
+      213: -3301896831088841124
+    second: Tiel map Semi_721
+  - first:
+      213: 1091340733240648167
+    second: Tiel map Semi_722
+  - first:
+      213: 3221893853304140307
+    second: Tiel map Semi_723
+  - first:
+      213: 4304373373580292120
+    second: Tiel map Semi_724
+  - first:
+      213: 707539445633630396
+    second: Tiel map Semi_725
+  - first:
+      213: 1168304619820982238
+    second: Tiel map Semi_726
+  - first:
+      213: -5964896076615720007
+    second: Tiel map Semi_727
+  - first:
+      213: -7693871021624275907
+    second: Tiel map Semi_728
+  - first:
+      213: 7273859207360986868
+    second: Tiel map Semi_729
+  - first:
+      213: -4724888174020179306
+    second: Tiel map Semi_730
+  - first:
+      213: 4791344467790990421
+    second: Tiel map Semi_731
+  - first:
+      213: -231177222948232299
+    second: Tiel map Semi_732
+  - first:
+      213: -948641445909262727
+    second: Tiel map Semi_733
+  - first:
+      213: 7391989814376352787
+    second: Tiel map Semi_734
+  - first:
+      213: -1970942704108190681
+    second: Tiel map Semi_735
+  - first:
+      213: 4615419952816120908
+    second: Tiel map Semi_736
+  - first:
+      213: 2057449455613094
+    second: Tiel map Semi_737
+  - first:
+      213: 5709330306988675251
+    second: Tiel map Semi_738
+  - first:
+      213: 7175526072326318293
+    second: Tiel map Semi_739
+  - first:
+      213: -2226816843353114199
+    second: Tiel map Semi_740
+  - first:
+      213: 3936455619592534343
+    second: Tiel map Semi_741
+  - first:
+      213: 8301755209603690545
+    second: Tiel map Semi_742
+  - first:
+      213: -4965782650927582269
+    second: Tiel map Semi_743
+  - first:
+      213: -5184266375882653453
+    second: Tiel map Semi_744
+  - first:
+      213: 5219181872252414863
+    second: Tiel map Semi_745
+  - first:
+      213: 8747370793729205532
+    second: Tiel map Semi_746
+  - first:
+      213: -6257393789985174675
+    second: Tiel map Semi_747
+  - first:
+      213: -9023503007594835489
+    second: Tiel map Semi_748
+  - first:
+      213: 3641406305949366413
+    second: Tiel map Semi_749
+  - first:
+      213: 7723775257118545036
+    second: Tiel map Semi_750
+  - first:
+      213: 2811352874948434685
+    second: Tiel map Semi_751
+  - first:
+      213: 2218037364233654411
+    second: Tiel map Semi_752
+  - first:
+      213: 1089383949577138256
+    second: Tiel map Semi_753
+  - first:
+      213: 112630886026672707
+    second: Tiel map Semi_754
+  - first:
+      213: -5962875904401100673
+    second: Tiel map Semi_755
+  - first:
+      213: -1701143866193217013
+    second: Tiel map Semi_756
+  - first:
+      213: -5571194231614958666
+    second: Tiel map Semi_757
+  - first:
+      213: -751200839719115646
+    second: Tiel map Semi_758
+  - first:
+      213: -3991701802095819787
+    second: Tiel map Semi_759
+  - first:
+      213: -8827531918907794501
+    second: Tiel map Semi_760
+  - first:
+      213: -4418471718261885547
+    second: Tiel map Semi_761
+  - first:
+      213: 8306071787887716486
+    second: Tiel map Semi_762
+  - first:
+      213: -9166873446344570306
+    second: Tiel map Semi_763
+  - first:
+      213: -7298465118754193276
+    second: Tiel map Semi_764
+  - first:
+      213: -4916742930662764261
+    second: Tiel map Semi_765
+  - first:
+      213: 2866039116705433605
+    second: Tiel map Semi_766
+  - first:
+      213: 8946716015232048505
+    second: Tiel map Semi_767
+  - first:
+      213: -1144515332799461913
+    second: Tiel map Semi_768
+  - first:
+      213: 506971023227869
+    second: Tiel map Semi_769
+  - first:
+      213: -4484854480330298679
+    second: Tiel map Semi_770
+  - first:
+      213: -9016052974249146439
+    second: Tiel map Semi_771
+  - first:
+      213: -3753296067865539226
+    second: Tiel map Semi_772
+  - first:
+      213: 769011767527481457
+    second: Tiel map Semi_773
+  - first:
+      213: 8069244806869664774
+    second: Tiel map Semi_774
+  - first:
+      213: -259969919673458348
+    second: Tiel map Semi_775
+  - first:
+      213: 1501602702017610465
+    second: Tiel map Semi_776
+  - first:
+      213: -6663635039808542853
+    second: Tiel map Semi_777
+  - first:
+      213: -7891748084970271164
+    second: Tiel map Semi_778
+  - first:
+      213: 9016966397859691060
+    second: Tiel map Semi_779
+  - first:
+      213: 5771592511979547085
+    second: Tiel map Semi_780
+  - first:
+      213: 2625440019060825061
+    second: Tiel map Semi_781
+  - first:
+      213: -4006660039155578379
+    second: Tiel map Semi_782
+  - first:
+      213: 1264098946607051444
+    second: Tiel map Semi_783
+  - first:
+      213: 4817164924086753670
+    second: Tiel map Semi_784
+  - first:
+      213: 9105898167340780057
+    second: Tiel map Semi_785
+  - first:
+      213: -8525344130478794933
+    second: Tiel map Semi_786
+  - first:
+      213: -7530389696939274814
+    second: Tiel map Semi_787
+  - first:
+      213: 2978704703836090227
+    second: Tiel map Semi_788
+  - first:
+      213: 6236740687217738349
+    second: Tiel map Semi_789
+  - first:
+      213: 6414219110225163695
+    second: Tiel map Semi_790
+  - first:
+      213: 2875214356605409761
+    second: Tiel map Semi_791
+  - first:
+      213: -1372087019478255008
+    second: Tiel map Semi_792
+  - first:
+      213: 1461234630682371794
+    second: Tiel map Semi_793
+  - first:
+      213: 7404180210391179740
+    second: Tiel map Semi_794
+  - first:
+      213: 4704109866223377135
+    second: Tiel map Semi_795
+  - first:
+      213: -407950925885804896
+    second: Tiel map Semi_796
+  - first:
+      213: 7310212954587721196
+    second: Tiel map Semi_797
+  - first:
+      213: 7382007450503506991
+    second: Tiel map Semi_798
+  - first:
+      213: 4631906964601907832
+    second: Tiel map Semi_799
+  - first:
+      213: -3389672249013243143
+    second: Tiel map Semi_800
+  - first:
+      213: 8750263235970371241
+    second: Tiel map Semi_801
+  - first:
+      213: -1502452240127636478
+    second: Tiel map Semi_802
+  - first:
+      213: 5832047950632283001
+    second: Tiel map Semi_803
+  - first:
+      213: 5873833741469947449
+    second: Tiel map Semi_804
+  - first:
+      213: -4836235859368410589
+    second: Tiel map Semi_805
+  - first:
+      213: 6044648693986198594
+    second: Tiel map Semi_806
+  - first:
+      213: 5067709213926288933
+    second: Tiel map Semi_807
+  - first:
+      213: 5750785050284906808
+    second: Tiel map Semi_808
+  - first:
+      213: -3248391748929676864
+    second: Tiel map Semi_809
+  - first:
+      213: -2296371280253241193
+    second: Tiel map Semi_810
+  - first:
+      213: -2422771825729288604
+    second: Tiel map Semi_811
+  - first:
+      213: -3740395609787760180
+    second: Tiel map Semi_812
+  - first:
+      213: 7809658584287769405
+    second: Tiel map Semi_813
+  - first:
+      213: -6582960143667599685
+    second: Tiel map Semi_814
+  - first:
+      213: 6348918249364623561
+    second: Tiel map Semi_815
+  - first:
+      213: -6084927064165664049
+    second: Tiel map Semi_816
+  - first:
+      213: -8196894644985693552
+    second: Tiel map Semi_817
+  - first:
+      213: 2218247979629601079
+    second: Tiel map Semi_818
+  - first:
+      213: 8299778043294624982
+    second: Tiel map Semi_819
+  - first:
+      213: 9008828610076762273
+    second: Tiel map Semi_820
+  - first:
+      213: 3016359105766363785
+    second: Tiel map Semi_821
+  - first:
+      213: 5658887145793060285
+    second: Tiel map Semi_822
+  - first:
+      213: -4186708096682166208
+    second: Tiel map Semi_823
+  - first:
+      213: -7021536858206565614
+    second: Tiel map Semi_824
+  - first:
+      213: 5167450527541811040
+    second: Tiel map Semi_825
+  - first:
+      213: 869476135624158196
+    second: Tiel map Semi_826
+  - first:
+      213: 6393114666984676013
+    second: Tiel map Semi_827
+  - first:
+      213: 8963533243200441672
+    second: Tiel map Semi_828
+  - first:
+      213: -1110924693007784021
+    second: Tiel map Semi_829
+  - first:
+      213: -1639053898526316039
+    second: Tiel map Semi_830
+  - first:
+      213: 6852686907175407162
+    second: Tiel map Semi_831
+  - first:
+      213: 2633208434149509650
+    second: Tiel map Semi_832
+  - first:
+      213: 6505739109013559717
+    second: Tiel map Semi_833
+  - first:
+      213: -8503118486288644905
+    second: Tiel map Semi_834
+  - first:
+      213: -3052365853495465830
+    second: Tiel map Semi_835
+  - first:
+      213: -2197227566364919144
+    second: Tiel map Semi_836
+  - first:
+      213: 4113629519584938728
+    second: Tiel map Semi_837
+  - first:
+      213: -8380984409247309229
+    second: Tiel map Semi_838
+  - first:
+      213: -2870984482655563080
+    second: Tiel map Semi_839
+  - first:
+      213: 8509833873096857516
+    second: Tiel map Semi_840
+  - first:
+      213: -8541773045375107190
+    second: Tiel map Semi_841
+  - first:
+      213: -4867574734945846635
+    second: Tiel map Semi_842
+  - first:
+      213: -5509551036210493306
+    second: Tiel map Semi_843
+  - first:
+      213: 3613316701899049464
+    second: Tiel map Semi_844
+  - first:
+      213: 5528084967224857046
+    second: Tiel map Semi_845
+  - first:
+      213: -4667157699601584513
+    second: Tiel map Semi_846
+  - first:
+      213: 8024172993937827554
+    second: Tiel map Semi_847
+  - first:
+      213: -8798615356108679152
+    second: Tiel map Semi_848
+  - first:
+      213: 6865798120316114706
+    second: Tiel map Semi_849
+  - first:
+      213: -5042883611018941565
+    second: Tiel map Semi_850
+  - first:
+      213: 5793536139083784633
+    second: Tiel map Semi_851
+  - first:
+      213: -6434453329726477982
+    second: Tiel map Semi_852
+  - first:
+      213: 7010813234655958757
+    second: Tiel map Semi_853
+  - first:
+      213: 5474249690267678580
+    second: Tiel map Semi_854
+  - first:
+      213: 4272826461205002849
+    second: Tiel map Semi_855
+  - first:
+      213: -3597683401183686387
+    second: Tiel map Semi_856
+  - first:
+      213: -4818461298098160789
+    second: Tiel map Semi_857
+  - first:
+      213: 5106040040926200220
+    second: Tiel map Semi_858
+  - first:
+      213: 7653151604476140681
+    second: Tiel map Semi_859
+  - first:
+      213: -1538512264598591502
+    second: Tiel map Semi_860
+  - first:
+      213: 4673921539411381518
+    second: Tiel map Semi_861
+  - first:
+      213: 2950362830286976350
+    second: Tiel map Semi_862
+  - first:
+      213: -5837887474036511447
+    second: Tiel map Semi_863
+  - first:
+      213: 6652590371380710022
+    second: Tiel map Semi_864
+  - first:
+      213: 1629400559676683665
+    second: Tiel map Semi_865
+  - first:
+      213: -5957985248591700781
+    second: Tiel map Semi_866
+  - first:
+      213: 2014343277521573058
+    second: Tiel map Semi_867
+  - first:
+      213: -8863865316239849297
+    second: Tiel map Semi_868
+  - first:
+      213: 4863217671252103345
+    second: Tiel map Semi_869
+  - first:
+      213: 254184093034710551
+    second: Tiel map Semi_870
+  - first:
+      213: -5649394016801264062
+    second: Tiel map Semi_871
+  - first:
+      213: -252007180632259338
+    second: Tiel map Semi_872
+  - first:
+      213: 2483405989727518132
+    second: Tiel map Semi_873
+  - first:
+      213: -8438617767127815882
+    second: Tiel map Semi_874
+  - first:
+      213: -6539647867484982080
+    second: Tiel map Semi_875
+  - first:
+      213: 9046623735580791766
+    second: Tiel map Semi_876
+  - first:
+      213: 2804895094993820529
+    second: Tiel map Semi_877
+  - first:
+      213: -3989590334815718018
+    second: Tiel map Semi_878
+  - first:
+      213: -6037026728531235274
+    second: Tiel map Semi_879
+  - first:
+      213: 1177002887332675380
+    second: Tiel map Semi_880
+  - first:
+      213: -2471277598265483895
+    second: Tiel map Semi_881
+  - first:
+      213: 5196925209974248703
+    second: Tiel map Semi_882
+  - first:
+      213: -736833304895825195
+    second: Tiel map Semi_883
+  - first:
+      213: 1801642145205233338
+    second: Tiel map Semi_884
+  - first:
+      213: 6868619570870710868
+    second: Tiel map Semi_885
+  - first:
+      213: -3204836001608014747
+    second: Tiel map Semi_886
+  - first:
+      213: -3572815887922405088
+    second: Tiel map Semi_887
+  - first:
+      213: -3934950000751190288
+    second: Tiel map Semi_888
+  - first:
+      213: 1121769327469359799
+    second: Tiel map Semi_889
+  - first:
+      213: 7832095488768245217
+    second: Tiel map Semi_890
+  - first:
+      213: -6793352752430006212
+    second: Tiel map Semi_891
+  - first:
+      213: -350237005895866979
+    second: Tiel map Semi_892
+  - first:
+      213: -725521380286659491
+    second: Tiel map Semi_893
+  - first:
+      213: -7981595526015949923
+    second: Tiel map Semi_894
+  - first:
+      213: 8036121540242312083
+    second: Tiel map Semi_895
+  - first:
+      213: 8756803930131313112
+    second: Tiel map Semi_896
+  - first:
+      213: 4868634363667305967
+    second: Tiel map Semi_897
+  - first:
+      213: -3710038551696468729
+    second: Tiel map Semi_898
+  - first:
+      213: 4169047635359857482
+    second: Tiel map Semi_899
+  - first:
+      213: -4334402117255579013
+    second: Tiel map Semi_0
+  - first:
+      213: 4500551907241995469
+    second: Tiel map Semi_1
+  - first:
+      213: 5148586789408766142
+    second: Tiel map Semi_2
+  - first:
+      213: 3261490213420481519
+    second: Tiel map Semi_3
+  - first:
+      213: -6206396628772782795
+    second: Tiel map Semi_4
+  - first:
+      213: -1524698168934745463
+    second: Tiel map Semi_5
+  - first:
+      213: 7201298355856222517
+    second: Tiel map Semi_6
+  - first:
+      213: -6850326314562586191
+    second: Tiel map Semi_7
+  - first:
+      213: -2590718166191585036
+    second: Tiel map Semi_8
+  - first:
+      213: -4233197501920612023
+    second: Tiel map Semi_9
+  - first:
+      213: -4589814833726488316
+    second: Tiel map Semi_10
+  - first:
+      213: 6373818296875506153
+    second: Tiel map Semi_11
+  - first:
+      213: -8880945308429476147
+    second: Tiel map Semi_12
+  - first:
+      213: 7356912596371833816
+    second: Tiel map Semi_13
+  - first:
+      213: 6291397259173891326
+    second: Tiel map Semi_14
+  - first:
+      213: 5790329778867849094
+    second: Tiel map Semi_15
+  - first:
+      213: -2834471646854966387
+    second: Tiel map Semi_16
+  - first:
+      213: -2711348209111790572
+    second: Tiel map Semi_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiel map Semi_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ab74f2d3c19d3c0800000000000000
+      internalID: -4334402117255579013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccad5c5d1c257e30800000000000000
+      internalID: 4500551907241995469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87af51864737740800000000000000
+      internalID: 5148586789408766142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb3759a114234d20800000000000000
+      internalID: 3261490213420481519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53df0d626237ed9a0800000000000000
+      internalID: -6206396628772782795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab4f2f71f27dae0800000000000000
+      internalID: -1524698168934745463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392a6653b620f360800000000000000
+      internalID: 7201298355856222517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b97cf0f280cee0a0800000000000000
+      internalID: -6850326314562586191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8cff6dd8beb0cd0800000000000000
+      internalID: -2590718166191585036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94173f9ec49a045c0800000000000000
+      internalID: -4233197501920612023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4010ae20ab3bd40c0800000000000000
+      internalID: -4589814833726488316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9562898f9547850800000000000000
+      internalID: 6373818296875506153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce93659b4b80c480800000000000000
+      internalID: -8880945308429476147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3075e1701091660800000000000000
+      internalID: 7356912596371833816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0de559788f4750800000000000000
+      internalID: 6291397259173891326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c8c161426b5050800000000000000
+      internalID: 5790329778867849094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d831b4b0e0fe9a8d0800000000000000
+      internalID: -2834471646854966387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiel map Semi_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c008d4b2b5f5ad0800000000000000
+      internalID: -2711348209111790572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
